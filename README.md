@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate Front-end Developer from Oman.</h3>
 
-https://www.buymeacoffee.com/aabi26
+
 
 <br><br>
 ## 🙋‍♂️ About Me 
