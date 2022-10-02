@@ -81,3 +81,4 @@
     <img src="https://komarev.com/ghpvc/?username=Aabi26">
 </a>
 <a href="https://github.com/Aabi26?tab=followers"><img src="https://img.shields.io/github/followers/Aabi26?label=Followers&style=social" alt="GitHub Badge"></a>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/d243b21fe807087d9667bffead855702cf5c9a6eb2f0445e17f4af3f1ca43f5c/68747470733a2f2f692e706f7374696d672e63632f46733735795956542f67697068792e676966" width="480" height="270">
